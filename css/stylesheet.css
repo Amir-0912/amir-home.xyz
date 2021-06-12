@@ -57,8 +57,8 @@ p {
 
 @-webkit-keyframes logo {
 	0% {
-		-webkit-transform: scale(1);
-		        transform: scale(1);
+		-webkit-transform: scale(10.5px);
+		        transform: scale(10.5px);
 	}
 	50% {
 		-webkit-transform: scale(1.07);
